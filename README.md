@@ -1,3 +1,6 @@
+#READ ME FILE
+
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
